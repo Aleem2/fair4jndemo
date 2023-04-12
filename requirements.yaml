@@ -1,0 +1,5 @@
+name: Python 3.9.16
+dependencies:
+  - python=Python 3.9.16
+  - matplotlib=3.7.1
+  - numpy=1.22.4
