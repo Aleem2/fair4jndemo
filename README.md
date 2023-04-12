@@ -7,6 +7,10 @@ FAIR for Jupyternotebook
 
 
 
+[![DOI](https://zenodo.org/badge/626877625.svg)](https://zenodo.org/badge/latestdoi/626877625)
+
+
+
 ## Code dependencies 
 
 The code dependencies are captured in the environment.yaml file. The instructions about create one for your project can be found at the link below.
