@@ -1,6 +1,9 @@
 # fair4jndemo
 FAIR for Jupyternotebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/fair4jndemo/HEAD?labpath=boxplot_vs_violin.ipynb)
+
+
 
 ## Code dependencies 
 
