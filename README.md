@@ -20,3 +20,4 @@ To get the list of python packages and dependencies use the following commands i
 ! freeze | grep -i numpy # getting numpy version only.
 
 ! freeze | grep -i matplotlib # getting matplotlib version only. 
++
